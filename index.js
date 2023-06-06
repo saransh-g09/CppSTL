@@ -7,4 +7,6 @@ if(age>18){
 }
 else{
     console.log("go ride your cycle")
+    
 }
+let Arr=[1,2,null]
